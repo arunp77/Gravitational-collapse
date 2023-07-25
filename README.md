@@ -47,3 +47,7 @@ In the final stages of a massive star's collapse, General Relativity becomes ess
 Due to the complexity of gravitational collapse, numerical simulations using computational methods like hydrodynamics and numerical relativity are crucial for studying the detailed behavior of collapsing stars and the formation of black holes.
 
 Studying gravitational collapse is a deeply intricate and mathematically demanding field. Astrophysicists use sophisticated mathematical models, equations, and simulations to gain a deeper understanding of this phenomenon and its consequences in the universe.
+
+## Monte Carlo simulation
+
+Monte Carlo simulation is a powerful numerical method used in various scientific and engineering fields, including astrophysics. It's particularly useful for tackling complex problems involving random or probabilistic processes, such as gravitational collapse.
