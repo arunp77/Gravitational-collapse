@@ -2,7 +2,7 @@
 
 Gravitational collapse is a fascinating and complex phenomenon in astrophysics that occurs when a massive object, such as a star, reaches the end of its life cycle. It involves the force of gravity overpowering other forces, leading to the object's collapse under its own gravitational pull. 
 
-![image.png](attachment:image.png)
+![Alt text](image.png)
 
 1. **Equilibrium and Stability:**
 Stars achieve equilibrium through a balance between the gravitational force pulling inwards and the pressure (thermal or radiation pressure) pushing outwards. This equilibrium is crucial for the star to maintain a stable size and shape throughout most of its life.
